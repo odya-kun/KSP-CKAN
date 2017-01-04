@@ -1,0 +1,170 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of modules installed on the default KSP instance",
+	"name": "installed-default",
+	"license": "unknown",
+	"version": "2016.05.30.06.47.39",
+	"identifier": "installed-default",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "Kerbalism-Profile-Default"
+		},
+		{
+			"name": "RemoteTech"
+		},
+		{
+			"name": "SCANsat"
+		},
+		{
+			"name": "SETI-ProbeControlEnabler"
+		},
+		{
+			"name": "TweakScale"
+		},
+		{
+			"name": "xScience"
+		},
+		{
+			"name": "Toolbar"
+		},
+		{
+			"name": "HotSpot"
+		},
+		{
+			"name": "Kerbalism"
+		},
+		{
+			"name": "ContractConfigurator-ContractPack-SCANsat"
+		},
+		{
+			"name": "ContractConfigurator-UnmannedContracts"
+		},
+		{
+			"name": "ContractsWindowPlus"
+		},
+		{
+			"name": "DockingPortAlignmentIndicator"
+		},
+		{
+			"name": "FogOfTech"
+		},
+		{
+			"name": "HeatControl"
+		},
+		{
+			"name": "StockBugFixPlus"
+		},
+		{
+			"name": "StockVisualEnhancements"
+		},
+		{
+			"name": "SpacetuxSA"
+		},
+		{
+			"name": "ProgressParser"
+		},
+		{
+			"name": "ContractParser"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "AstronikiSunflareforScatterer"
+		},
+		{
+			"name": "Scatterer"
+		},
+		{
+			"name": "TextureReplacer"
+		},
+		{
+			"name": "DMagicOrbitalScience"
+		},
+		{
+			"name": "EVATransfer"
+		},
+		{
+			"name": "ContractConfigurator"
+		},
+		{
+			"name": "InfernalRobotics"
+		},
+		{
+			"name": "KAS"
+		},
+		{
+			"name": "KerbalConstructionTime"
+		},
+		{
+			"name": "AGExt"
+		},
+		{
+			"name": "KerbalJointReinforcement"
+		},
+		{
+			"name": "KIS"
+		},
+		{
+			"name": "MechJeb2"
+		},
+		{
+			"name": "ModularRocketSystemsLITE"
+		},
+		{
+			"name": "PartCommander"
+		},
+		{
+			"name": "PortraitStats"
+		},
+		{
+			"name": "ProceduralFairings"
+		},
+		{
+			"name": "RealChute"
+		},
+		{
+			"name": "ShipManifest"
+		},
+		{
+			"name": "StageRecovery"
+		},
+		{
+			"name": "ExtraPlanetaryLaunchpads"
+		},
+		{
+			"name": "InfernalRobotics-LegacyParts"
+		},
+		{
+			"name": "KerbalEngineerRedux"
+		},
+		{
+			"name": "MagiCore"
+		},
+		{
+			"name": "ConnectedLivingSpace"
+		},
+		{
+			"name": "FirespitterCore"
+		},
+		{
+			"name": "MechJebForAll"
+		},
+		{
+			"name": "ETT"
+		},
+		{
+			"name": "KerbalPlanetaryBaseSystems"
+		},
+		{
+			"name": "YongeTechTreesPlugin"
+		},
+		{
+			"name": "CameraFocusChanger"
+		},
+		{
+			"name": "KerbalStats"
+		}
+	]
+}

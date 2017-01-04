@@ -1,0 +1,95 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of modules installed on the default KSP instance",
+	"name": "installed-default",
+	"license": "unknown",
+	"version": "2017.01.04.08.12.22",
+	"identifier": "installed-default",
+	"spec_version": "v1.6",
+	"depends": [
+		{
+			"name": "Toolbar",
+			"version": "1.7.13"
+		},
+		{
+			"name": "KSTS",
+			"version": "1.8"
+		},
+		{
+			"name": "KRnD",
+			"version": "1.12"
+		},
+		{
+			"name": "KerbalJointReinforcement",
+			"version": "v3.3.1"
+		},
+		{
+			"name": "KAS",
+			"version": "0.6.2.0"
+		},
+		{
+			"name": "CapCom",
+			"version": "2.5"
+		},
+		{
+			"name": "ProgressParser",
+			"version": "6.0"
+		},
+		{
+			"name": "ContractParser",
+			"version": "5.0"
+		},
+		{
+			"name": "ModuleManager",
+			"version": "2.7.5"
+		},
+		{
+			"name": "KIS",
+			"version": "1.4.0.0"
+		},
+		{
+			"name": "ContractsWindowPlus",
+			"version": "7.3"
+		},
+		{
+			"name": "AGExt",
+			"version": "2.2"
+		},
+		{
+			"name": "ShipManifest",
+			"version": "5.1.3.1"
+		},
+		{
+			"name": "SVE-Sunflare",
+			"version": "2:1.1.4"
+		},
+		{
+			"name": "EnvironmentalVisualEnhancements",
+			"version": "2:EVE-1.2-2"
+		},
+		{
+			"name": "SVE-HighResolution",
+			"version": "2:1.1.4"
+		},
+		{
+			"name": "PlanetShine",
+			"version": "0.2.5.2"
+		},
+		{
+			"name": "TextureReplacer",
+			"version": "v2.5.4"
+		},
+		{
+			"name": "Scatterer",
+			"version": "2:v0.0256"
+		},
+		{
+			"name": "PlanetShine-Config-Default",
+			"version": "0.2.5.2"
+		},
+		{
+			"name": "SVE-Scatterer-Config",
+			"version": "2:1.1.4"
+		}
+	]
+}
